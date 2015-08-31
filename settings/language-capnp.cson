@@ -1,0 +1,4 @@
+".source.capnp":
+  editor:
+    foldEndPattern: "^\\s*\\}"
+    commentStart: "# "
